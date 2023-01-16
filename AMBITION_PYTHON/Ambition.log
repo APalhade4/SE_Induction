@@ -1,0 +1,26 @@
+2023-01-02 08:43:54,109 This is Warning msg due to lack of information in <function <lambda> at 0x000002738C123E20>
+2023-01-02 08:43:54,109 This is error msg
+2023-01-02 08:43:54,109 This is critical msg
+2023-01-02 08:44:38,087 This is critical msg
+2023-01-02 08:44:38,087 This is Dubug msg
+2023-01-02 08:44:38,088 This is Info  msg
+2023-01-02 08:44:38,088 This is Warning msg due to lack of information in <function <lambda> at 0x0000021412E93E20>
+
+2023-01-02 08:45:31,952 This is critical msg
+2023-01-02 08:45:31,953 This is Dubug msg
+2023-01-02 08:45:31,953 This is error msg
+2023-01-02 08:45:31,953 This is Info  msg
+2023-01-02 08:45:31,953 This is Warning msg due to lack of information in <function <lambda> at 0x000001FDDD8E3E20>
+2023-01-02 08:50:19,994 This is critical msg
+2023-01-02 08:50:19,994 This is error msg
+2023-01-02 08:50:19,994 This is Warning msg due to lack of information in <function <lambda> at 0x0000027F30123E20>
+2023-01-02 08:52:02,620 This is critical msg
+2023-01-02 08:52:02,620 This is Dubug msg
+2023-01-02 08:52:02,620 This is error msg
+2023-01-02 08:52:02,620 This is Info  msg
+2023-01-02 08:52:02,620 This is Warning msg due to lack of information in <function <lambda> at 0x000001D350DD3E20>
+2023-01-02 08:53:18,526 This is Dubug msg
+2023-01-02 08:53:18,527 This is Info  msg
+2023-01-02 08:53:18,527 This is Warning msg due to lack of information in <function <lambda> at 0x000001C1BA2F3E20>
+2023-01-02 08:53:18,527 This is error msg
+2023-01-02 08:53:18,527 This is critical msg
