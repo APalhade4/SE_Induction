@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8feda55b-ff96-40f2-aeeb-50ff7c0bb791" name="Changes" comment="Test_B1_sample&#10;&#10;ACIDT-11" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/os.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTEST/Fixtures.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTEST/test_fixture.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Arithmetic Operators.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Class &amp; Object.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Class_Method.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Comments.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Conditional_Statements.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Excel_Operations.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Exception Handling.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Extra.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/FOR Loop.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/For Else.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Functions with Arguments.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Funtions_types.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/INIT.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/IPM_Programs.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Inheritance.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Input() Function.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Instance_Method.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/LIST.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Lambda_Function.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Loop Statements.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Loop's.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Modules.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/OOP's.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Polymorphism.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Range.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Recursion.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Rules_for_defining_a_variable_name.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/STRING.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Static_Method.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/String_Slicing.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Tables.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Temporary_for _practise.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Typecasting.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_PYTHON/Var, Keys &amp; Identifiers.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/Alert_control.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/Automation.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/Broken_Links.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/Button.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/Check_Boxes.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/EXPLICIT_WAIT.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/Extra.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/IMPLICIT_WAIT.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/Links_Handling.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/Locators.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/Placeholder_text.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/Text_input_field.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/Windows_Handling.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/AMBITION_SELENIUM/iframe.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Anurag/Interview.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Anurag/Rani_Training.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Anurag/Test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Testing_Frameworks/Data_Driven_testing.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Testing_Frameworks/Utils.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2CLuyclx6XI1PVfHCZABr9nrqUK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Anurag Palhade/PycharmProjects/SE_Induction&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anurag Palhade\PycharmProjects\SE_Induction\AMBITION_PYTEST" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Data_Driven_testing">
+    <configuration name="Class_Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SE_Induction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AMBITION_PYTHON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AMBITION_PYTHON/Class_Method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Data_Driven_testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SE_Induction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing_Frameworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testing_Frameworks/Data_Driven_testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Instance_Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SE_Induction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AMBITION_PYTHON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Anurag Palhade\PycharmProjects\SE_Induction\AMBITION_PYTHON\Instance_Method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Static_Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SE_Induction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AMBITION_PYTHON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AMBITION_PYTHON/Static_Method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SE_Induction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing_Frameworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testing_Frameworks/Utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Data_Driven_testing" />
+        <item itemvalue="Python.Utils" />
+        <item itemvalue="Python.Static_Method" />
+        <item itemvalue="Python.Class_Method" />
+        <item itemvalue="Python.Instance_Method" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8feda55b-ff96-40f2-aeeb-50ff7c0bb791" name="Changes" comment="" />
+      <created>1658594442051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658594442051</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Test_B1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="happy happy" />
+    <option name="LAST_COMMIT_MESSAGE" value="happy happy" />
+  </component>
+</project>
